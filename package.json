@@ -12,12 +12,12 @@
   "files": [ "./dist" ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foretoo/round-polygon.git"
+    "url": "git+https://github.com/upo11o/round-polygon.git"
   },
   "bugs": {
-    "url": "https://github.com/foretoo/round-polygon/issues"
+    "url": "https://github.com/upo11o/round-polygon/issues"
   },
-  "homepage": "https://github.com/foretoo/round-polygon#readme",
+  "homepage": "https://github.com/upo11o/round-polygon#readme",
   "scripts": {
     "public": "rollup -c config/public.ts",
     "dev": "rollup -c config/dev.ts -w",
