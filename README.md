@@ -1,8 +1,7 @@
 
 # round-polygon
 
-[![round-polygon npm version 0.6.7](https://img.shields.io/badge/npm-v0.6.7-blue)](https://www.npmjs.com/package/round-polygon)
-![minified size](https://img.shields.io/bundlephobia/min/round-polygon)
+[![round-polygon npm version 0.6.9](https://img.shields.io/badge/npm-v0.6.9-blue)](https://www.npmjs.com/package/round-polygon)
 [![test coverage — 100%](https://img.shields.io/badge/tests-100%25-success)](https://github.com/upo11o/round-polygon/tree/main/src/tests)
 ![license](https://img.shields.io/github/license/upo11o/round-polygon)
 
@@ -152,6 +151,9 @@ segments.forEach((p) => {
 ![example](./public/readme-example.png)
 
 ## Changelog
+
+### v0.6.9
+- update demo page
 
 ### v0.6.7
 - fix: getting NaN's by `getSegments` on some edge cases
