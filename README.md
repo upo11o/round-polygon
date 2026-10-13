@@ -1,9 +1,9 @@
 
 # round-polygon
 
-[![round-polygon npm version 0.6.9](https://img.shields.io/badge/npm-v0.6.9-blue)](https://www.npmjs.com/package/round-polygon)
-[![test coverage — 100%](https://img.shields.io/badge/tests-100%25-success)](https://github.com/upo11o/round-polygon/tree/main/src/tests)
+[![npm](https://img.shields.io/npm/v/round-polygon)](https://www.npmjs.com/package/round-polygon)
 ![license](https://img.shields.io/github/license/upo11o/round-polygon)
+[![npm](https://img.shields.io/npm/dm/round-polygon)](https://www.npmjs.com/package/round-polygon)
 
 Small, typed, dependency-free tool to round corners of an arbitrary polygon provided by an array of `{ x, y }` points.
 
